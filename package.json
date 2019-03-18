@@ -11,7 +11,7 @@
     "express": "^4.15.4",
     "morgan": "^1.8.2",
     "winston": "^2.3.1",
-    "sap-iot-ae-node-wrapper": "https://github.com/fableh/iot-application-services-sdk-nodejs"
+    "sap-iot-ae-node-wrapper": "https://github.com/fitpatrick/iot-application-services-sdk-nodejs"
   },
   "author": "",
   "license": "ISC"
